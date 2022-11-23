@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @devcaioso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Ola, sou o Caio
+- Tenho muito interesse em sempre aprender mais sobre o mundo da programação 
+- Aprendizados básicos ate agora em: python, CSS e HTML
+- Espero sempre poder colaborar pra sociedade tech
 
-<!---
-devcaioso/devcaioso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
